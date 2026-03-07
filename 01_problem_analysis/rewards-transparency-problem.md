@@ -28,3 +28,11 @@ Several pain points can arise from the delay between transaction authorization a
 | Changing transcation amounts | Tips or adjustments can change the final transaction value, leading to different reward totals than expected. |
 | Perceived reward inaccuracies | Customers may believe rewards wereincorrectly caluculated. |
 | Delayed gratification | Immediate reward feedback can increase engagement, but the current system delays this feedback. |
+
+## Opportunity 
+
+We can provide a stronger customer experience, by offering transparency into rewards calculations through the pending phase of a transcation. 
+
+Displaying an **"estimated"/"pending" rewards value immediately after transaction authorization** would allow customers to better understand the value generated from each purchase they make, while also giving our istitution to still control real value of the reqrds after the transaction posts/settles.
+
+This feature could improve our customer's trust in the rewards program while also reducing any potential confusion or uncertainty behind the rewards they are receiving, ultimately alsi reducing unnecessary support tickets. 
