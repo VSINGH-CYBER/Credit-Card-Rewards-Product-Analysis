@@ -50,5 +50,12 @@ Estimated Rewards: ~136 points
 - Improved the customer's satisfaction wand trust
 - Increase in value perception for the credit card rewards program
 
+## Potential Risks and Considerations
 
+| Risk | Explanation |
+|-----|-------------|
+| Estimated rewards may change | Final rewards may differ from pending amount if the transaction amount changes at settlement |
+| Merchant category adjustments | Merchant category codes may update at settlement which could affect reward payout |
+| Tips added after authorization | Final transaction amount may increase, which will also fluctuate the reward payout |
+| Customer confusion if estimates change | Clear labeling dislosure of "estimated rewards" is necessary to avoid potential influx of support tickets |
 
