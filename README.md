@@ -25,6 +25,7 @@ The purpose of this project is to demonstrate how a Product Analyst might:
 
 ## Repository Structure
 
+```
 credit-card-rewards-product-analysis
 │
 ├── README.md
@@ -49,6 +50,7 @@ credit-card-rewards-product-analysis
 │
 └── diagrams
 └── user-journey.png
+```
 
 ---
 
