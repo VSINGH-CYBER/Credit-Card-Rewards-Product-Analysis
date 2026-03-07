@@ -14,15 +14,15 @@ Once the transcation settles and final transaction amount is certified, the fina
 ## Example User Experience
 
 Current experience:
-
+```
 $65.30 Restaurant Purchase
 Status: Pending
 Rewards: Not yet available
-
+```
 Proposed experience:
-
+```
 $65.30 Restaurant Purchase
 Status: Pending 
 Estimated Rewards: ~136 points
-
+```
 
