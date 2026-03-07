@@ -4,7 +4,7 @@
 
 Credit card reward programs are a key driver of customer engagement and card usage. However, many financial institutions only calculate and display rewards after a transaction has fully settled. 
 
-Between the time a purchase is authorized and when it settles, customers typically see a "pending transcation" but do not see the rewards asssociated with that purchase. If the final transaction amount changes due to factors such as tips, merchant category adjustments, or even settlement differences, the reward calculation may also change. 
+Between the time a purchase is authorized and when it settles, customers typically see a "pending transaction" but do not see the rewards asssociated with that purchase. If the final transaction amount changes due to factors such as tips, merchant category adjustments, or even settlement differences, the reward calculation may also change. 
 
 ## Current Transaction Flow
 
