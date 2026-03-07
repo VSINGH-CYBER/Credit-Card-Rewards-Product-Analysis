@@ -13,16 +13,27 @@ Here is a simplified version of the current customer experience:
 Customer makes a purchase
 
 ↓
+
 Issuing bank approves the transaction
+
 ↓
+
 Transaction appears as **pending** in the mobile app or account dashboard 
+
 ↓
+
 No rewards are displayed at this point
+
 ↓
+
 Merchant submits the final transaction for settlement
+
 ↓
+
 The transaction settles with the final amount
+
 ↓
+
 Rewards are calculated and displayed to the customer's account
 
 ## Customer Friction Points
