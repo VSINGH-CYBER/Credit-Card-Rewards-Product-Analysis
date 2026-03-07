@@ -11,6 +11,7 @@ In most financial institutions that offer credit card products, rewards are not 
 Here is a simplified version of the current customer experience:
 
 Customer makes a purchase
+
 ↓
 Issuing bank approves the transaction
 ↓
