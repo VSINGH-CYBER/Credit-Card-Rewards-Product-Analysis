@@ -34,3 +34,21 @@ Estimated Rewards: ~136 points
 | Pending rewards display | Estimated rewards shown alongside pending transactions |
 | Settlement adjustment | Final rewards update once the transaction settles |
 | Transparency label | Rewards clearly labeled as "estimated" until final settlement |
+
+
+## Customer Benefits
+
+- Immediate Feedback on rewards earned from purchases
+- Greater transparency into the process of reward calculation
+- Increase overall confidence in the rewards program
+- Improved engagement with credit card usage
+
+## Business Benefits
+
+- Reduced customer support inquiries related to rewards calculations
+- Increase in acustomer engagement with the rewards programs
+- Improved the customer's satisfaction wand trust
+- Increase in value perception for the credit card rewards program
+
+
+
