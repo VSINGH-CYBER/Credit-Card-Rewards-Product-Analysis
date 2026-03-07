@@ -26,3 +26,11 @@ Status: Pending
 Estimated Rewards: ~136 points
 ```
 
+## Key Feature Components
+
+| Feature Component | Description |
+|------------------|-------------|
+| Estimated reward calculation | System calculates approximate reward value immediately after authorization |
+| Pending rewards display | Estimated rewards shown alongside pending transactions |
+| Settlement adjustment | Final rewards update once the transaction settles |
+| Transparency label | Rewards clearly labeled as "estimated" until final settlement |
