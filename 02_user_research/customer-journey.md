@@ -3,9 +3,9 @@
 
 ## Current Customer Experience
 
-To get a better understanding of the impact that delayed reward calculations, we must take a deep look into the typical customer experience from the time that they swipe their card, all the way to the point when the rewards are displayed on their account. 
+To get a better understanding of the impact of delayed reward calculations, we must take a deep look into the typical customer experience from the time that they swipe their car to the point where rewards are displayed on the account.
 
-In most financial institutions that offer credit card products, rewards are not calculated and displayed until the transactions are settled. As a result, **customers experience a delay in between making a purchase and seeing the rewards that are associated with the purchase display on their account**. 
+In most financial institutions that offer credit card products, rewards are not calculated and displayed until the transactions are settled. As a result, **customers experience a delay in between making a purchase and seeing the associated rewards display on their account**. 
 
 
 ## Transaction Flow Experience
@@ -24,7 +24,7 @@ Transaction appears as **pending** in the mobile app or account dashboard
 
 ↓
 
-No rewards are displayed at this point
+No rewards are displayed at this stage
 
 ↓
 
@@ -51,5 +51,9 @@ There are several points in the transaction lifecycle where there is room for po
 
 
 ## Key Insights
+
+Customers look for instant feedback when interacting with digital financial products. Customers desire to have immediate understanding with how their transactions and rewards points align. If rewards are positioned a a key benefit to own a credit card product, customers expect to witness the rewards as an immediate exchange for their transaction. 
+
+Providing the customer with earliuer visibility to estimated (pending) rewards could improve transparency and reinforce the value perception of the rewards program, ultimately leading to an increase in customer engagement. 
 
 
