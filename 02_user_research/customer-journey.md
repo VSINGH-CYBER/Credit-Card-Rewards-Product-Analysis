@@ -44,10 +44,10 @@ Rewards are calculated and displayed to the customer's account
 There are several points in the transaction lifecycle where there is room for potential confusion, uncertainty, or friction for the customer:
 | Stage | Customer Experience | Potential Issue |
 |-----|-----|-----|
-| Pending transaction appears | Customer see the transaction on the account (pending) | Customer anticipating rewards with the purchase |
+| Pending transaction appears | Customer sees the transaction on the account (pending) | Customer anticipating rewards with the purchase |
 | Waiting for Settlement | No trace of rewards are visible yet | Customer now may be unsure if rewards are applied |
-||||
-||||
+| Transacation amount chnages | Final amount differes due to the tip or transaction adjustments | Rewards may now differ from expectations |
+| Trasaction setttles/Rewards Appear | Rewards now post after the final transaction is settled | Delayed rewards feedback reduces customer engagement |
 
 
 ## Key Insights
