@@ -17,4 +17,28 @@ This delay leads to a sense of uncertainty and confusion when customers are unab
 
 Improving the transparency during the pending transaction stage will positively reinforce customer trust in our reward calculation and provides them full insight of the rewards process from the time they swipe their card to the time of the transaction settlement. This is will increase customer engagement and reduce the amount of customer complaints in regards to rewards transparency and calculations.
 
+## Dependencies
+
+Here are the dependencies for successful deployment of this feature:
+
+- Access to transaction authorization data
+- Integration with rewards calculation engine
+- Merchant Category Code (MCC) data availability
+- Mobile and web interface update to display estimated rewards
+
+## Success Metrics
+
+The following metrics can be used to evaluate the effectiveness of this feature:
+
+The effectiveness of this feature can be evaluated using the following metrics:
+
+| Metric | Goal |
+|------|------|
+| Rewards-related customer support inquiries | 20% Decrease |
+| Rewards program engagement | 10-15% Increase |
+| Mobile app interaction with transaction history | Increase overall engagement |
+| Customer satisfaction with rewards experience | Improved/Positive user feedback |
+
+
+
 
