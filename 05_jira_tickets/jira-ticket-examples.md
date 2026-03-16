@@ -81,7 +81,7 @@ The following screenshots illustrate how the feature was organized and tracked w
 
 ### Story with Subtasks
 
-![Jira Story with Subtasks](.../diagrams/Jira_story_with_sub-tasks.png)
+![Jira Story with Subtasks](../diagrams/Jira_story_with_sub-tasks.png)
 
 ### Backend Subtask Example
 
