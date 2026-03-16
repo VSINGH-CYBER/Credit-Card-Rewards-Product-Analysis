@@ -81,12 +81,22 @@ The following screenshots illustrate how the feature was organized and tracked w
 
 ### Story with Subtasks
 
-![Jira Story with Subtasks](../diagrams/Jira_story_with_sub-tasks.png)
+![Jira Story with Subtasks](../diagrams/Jira_story_with_subtasks.png)
 
 ### Backend Subtask Example
 
-![Backend Subtask]()
+![Backend Subtask](../diagrams/Backend_subtask)
+
+### Frontend Subtask Example
+
+![Backend Subtask](../diagrams/Frontend_subtask)
+
+### QA Subtask Example
+
+![Backend Subtask](../diagrams/QA_subtask)
 
 ### Jira Board View
 
-![Jira Board]()
+![Jira Board](../diagrams/Jira_board_view)
+
+
