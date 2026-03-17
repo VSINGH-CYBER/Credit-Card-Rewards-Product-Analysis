@@ -95,8 +95,11 @@ The following screenshots illustrate how the feature was organized and tracked w
 
 ![Backend Subtask](../diagrams/QA_subtask.png)
 
-### Jira Board View
+## Jira Workflow Visualization
+
+The following board view demonstrates how the feature work progresses through a typical agile workflow.
+
+### Board View
 
 ![Jira Board](../diagrams/jira_board_view.png)
-
 
