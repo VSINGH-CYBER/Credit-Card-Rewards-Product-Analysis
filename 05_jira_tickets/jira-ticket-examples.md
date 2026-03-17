@@ -89,7 +89,7 @@ The following screenshots illustrate how the feature was organized and tracked w
 
 ### Frontend Subtask Example
 
-![Backend Subtask](../diagrams/frontend_subtask.png)
+![Frontend Subtask](../diagrams/frontend_subtask.png)
 
 ### QA Subtask Example
 
