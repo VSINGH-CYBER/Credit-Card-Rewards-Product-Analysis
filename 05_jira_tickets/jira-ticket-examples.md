@@ -85,18 +85,18 @@ The following screenshots illustrate how the feature was organized and tracked w
 
 ### Backend Subtask Example
 
-![Backend Subtask](../diagrams/Backend_subtask)
+![Backend Subtask](../diagrams/backend_subtask.png)
 
 ### Frontend Subtask Example
 
-![Backend Subtask](../diagrams/Frontend_subtask)
+![Backend Subtask](../diagrams/frontend_subtask.png)
 
 ### QA Subtask Example
 
-![Backend Subtask](../diagrams/QA_subtask)
+![Backend Subtask](../diagrams/QA_subtask.png)
 
 ### Jira Board View
 
-![Jira Board](../diagrams/Jira_board_view)
+![Jira Board](../diagrams/jira_board_view.png)
 
 
